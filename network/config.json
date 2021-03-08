@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "https://www.ecosistemacircular.org/",
+    "text": "Melanie Valencia"
+  },
+  "text": {
+    "more": "Actores y organizaciones con estrategias de economía circular en Ecuador. Evento Ecosistema Circular 27-29 de enero, 2021. Puede buscar su nombre o el nombre de cualquier organización. ",
+    "intro": "Actores y organizaciones con estrategias de economía circular en Ecuador. Evento Ecosistema Circular 27-29 de enero, 2021. Puede buscar su nombre o el nombre de cualquier organización. ",
+    "title": "Evento Ecosistema Circular Ecuador"
+  },
+  "legend": {
+    "edgeLabel": "# de estrategias",
+    "colorLabel": "verde \u003d estrategias circulares, rosa \u003d actores",
+    "nodeLabel": "Actores"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
